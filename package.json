@@ -1,0 +1,24 @@
+{
+  "name": "taskapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hello-pangea/dnd": "^18.0.1",
+    "bootstrap": "^5.3.6",
+    "mdb-react-ui-kit": "^9.0.0",
+    "mdb-ui-kit": "^9.0.0",
+    "next": "15.3.3",
+    "react": "^19.0.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "uuid": "^11.1.0"
+  }
+}
