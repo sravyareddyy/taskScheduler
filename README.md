@@ -11,13 +11,13 @@ This website built using NextJs and Bootstrap with features like:
 
 ## 📦 Installation & Running Locally
 
-1. Clone the repo: 
+1. Clone the repo : 
 git clone https://github.com/your-username/task-manager-app.git
-cd task-manager-app
+Navigate to folder : cd task-manager-app
 
-2. Install Dependencies :
+3. Install Dependencies :
 npm install
 
-3. Run it on server : 
+4. Run it on server : 
 npm run  dev
 Open http://localhost:3000 in your browser.
