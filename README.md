@@ -1,6 +1,6 @@
 # 📝 Task Management Web Application
 
-This website built using **NextJs* and **Bootstrap**, with features like:
+This website built using NextJs and Bootstrap with features like:
 - Task creation, editing, and deletion.
 - User can start task one at a time .
 - Progress bar indicating task completion status.
@@ -11,13 +11,13 @@ This website built using **NextJs* and **Bootstrap**, with features like:
 
 ## 📦 Installation & Running Locally
 
-1. **Clone the repo:**
+1. Clone the repo: 
 git clone https://github.com/your-username/task-manager-app.git
 cd task-manager-app
 
-2. **Install Dependencies**
+2. Install Dependencies :
 npm install
 
-3. **Run it on server**
+3. Run it on server : 
 npm run  dev
 Open http://localhost:3000 in your browser.
